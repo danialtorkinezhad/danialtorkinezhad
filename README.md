@@ -4,7 +4,7 @@ Hi there! I'm Danial, I'm part of the Turing team.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danialtorkinezhad) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial-torkinezhad-90b0a031b/) 
+
 
 
 # 💻 Tech Stack:
